@@ -1,0 +1,572 @@
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+.cart {
+    padding: 20px;
+    border-bottom: 1px solid darkgray;
+    font-weight: 600;
+}
+
+.navbar-expand-sm .navbar-nav {
+    margin-left: 70px;
+}
+
+.dropdown-toggle {
+    color: black !important;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    margin-left: 6px;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-menu>a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-menu>a:hover {
+    color: #d21e2b;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown:hover>.dropdown-toggle {
+    color: #d21e2b !important;
+}
+
+.dropdown:hover>.dropdown-toggle:hover {
+    color: #d21e2b;
+}
+
+.banner {
+    text-align: center;
+    color: white;
+}
+
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 30%;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.carousel-caption h1 {
+    font-size: 80px;
+    font-weight: 700;
+}
+
+.carousel-caption a {
+    padding: 13px 55px;
+    color: white;
+    border-radius: 30px;
+    background: #d21e2b;
+    text-decoration: none;
+}
+
+.carousel-caption a:hover {
+    background: #222;
+}
+
+.pageone hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-top: 3px solid rgba(0, 0, 0, .1);
+}
+
+.title {
+    text-align: center;
+    padding: 80px;
+}
+
+.title>h6 {
+    color: #c02336;
+}
+
+.title>h3 {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.pageone .items1 {
+    text-align: center;
+    padding: 0 16px;
+}
+
+.pageone i {
+    color: #d21e2b;
+    background: linear-gradient(#faebec, #fefefe);
+    border-radius: 64px;
+    padding: 27px 31px;
+    margin-bottom: 30px;
+}
+
+.pageone p {
+    color: #999999;
+}
+
+.pageone {
+    padding-bottom: 100px;
+}
+
+.pagetwo {
+    background: #111;
+}
+
+.pagetwo h3 {
+    color: white;
+    padding-right: 20%;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.pagetwo p {
+    padding-top: 15px;
+    padding-bottom: 30px;
+    color: #999;
+}
+
+.pagetwo a {
+    padding: 12px 25px;
+    color: white;
+    border-radius: 30px;
+    background: #d21e2b;
+    text-decoration: none;
+}
+
+.pagetwo .c1 {
+    padding: 0 73px;
+    margin: 79px 0;
+}
+
+.pagetwo img {
+    height: fit-content;
+}
+
+.pagetwo a:hover {
+    background: #222;
+}
+
+.bonus1 {
+    background: #d21e2b;
+    padding: 60px 0;
+}
+
+.bonus1 h3 {
+    color: white;
+    font-size: 30px;
+    display: contents;
+}
+
+.bonus1 a {
+    font-weight: 700;
+    font-size: 12px;
+    color: white;
+    border-radius: 25px;
+    background: black;
+    padding: 10px 18px;
+    margin-left: 180px;
+    text-decoration: none;
+}
+
+.bonus1 a:hover {
+    background: #d21e2b;
+}
+
+.pagethree {
+    padding: 120px 0;
+}
+
+.pagethree h5 {
+    color: #d21e2b;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.pagethree h3 {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.pagethree hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 3px solid #d21e2b;
+    width: 17%;
+    margin-left: 1px;
+}
+
+a.btn.btn-primary1 {
+    font-weight: 500;
+    padding-right: 0;
+}
+
+div#demo1 {
+    color: #999;
+    padding: 20px 15px;
+}
+
+div#demo2 {
+    color: #999;
+    padding: 20px 15px;
+}
+
+div#demo3 {
+    color: #999;
+    padding: 20px 15px;
+}
+
+.pagefour {
+    text-align: center;
+    padding-bottom: 100px;
+    background: #f9f9f9;
+}
+
+.pagefour h3 {
+    font-size: 30px;
+}
+
+.pagefour h2 {
+    font-size: 40px;
+    font-weight: 500;
+    padding-bottom: 40px;
+}
+
+.pagefour a {
+    padding: 17px 35px;
+    color: white;
+    border-radius: 30px;
+    background: #d21e2b;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.pagefour a:hover {
+    background: #222;
+}
+
+.pagefive-table {
+    padding: 90px 0;
+}
+
+.pagefive-table h4 {
+    font-size: 15px;
+    color: #d21e2b;
+}
+
+.pagefive-table h3 {
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.pagefive-table hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 3px solid #d21e2b;
+    width: 8%;
+    margin-left: 1px;
+}
+
+.lorem {
+    color: #aaa;
+    padding-bottom: 35px;
+}
+
+.round-bonus {
+    text-align: center;
+}
+
+.round-bonus h6 {
+    background: black;
+    color: white;
+    padding: 12px;
+    margin: 30px -15px;
+    font-size: 12px;
+}
+
+.round-bonus .sp {
+    padding-bottom: 15px;
+    margin: -30px 14px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.sp sup {
+    font-size: 26px;
+}
+
+.sp span {
+    font-size: 44px;
+}
+
+.round-bonus p {
+    color: #a0a4a7;
+    font-weight: 500;
+}
+
+.round-bonus hr {
+    border-top: 1px solid #f0f0f0;
+    width: 102%;
+}
+
+.round-bonus .different {
+    position: relative;
+    width: 352px;
+    height: 539px;
+    border: 1px solid white;
+    margin: -26px;
+    margin-right: -1px;
+    margin-left: 0px;
+    padding-left: 13px;
+    box-shadow: 3px 23px 34px -7px darkgrey;
+}
+
+.round-bonus a {
+    color: black;
+    font-size: 13px;
+    font-weight: 600;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 6px 16px;
+    text-decoration: none;
+}
+
+.round-bonus a:hover {
+    background: black;
+    color: white;
+    border: black;
+}
+
+.different a {
+    background: black !important;
+    color: white !important;
+    border: white;
+    padding: 8px 18px;
+}
+
+.different a:hover {
+    border: 2px solid !important;
+    color: black !important;
+    background: white !important;
+}
+
+.logo-six {
+    margin-right: 30px;
+    padding-bottom: 70px;
+}
+
+.pagesix-logo img {
+    opacity: 0.5;
+}
+
+.pagesix-logo img:hover {
+    opacity: 1;
+}
+
+footer {
+    background: black;
+}
+
+.footer-title {
+    padding: 30px 0;
+}
+
+.footer-title h3 {
+    color: white;
+    font-weight: 400;
+}
+
+.footer-title hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 3px solid #d21e2b;
+    width: 23%;
+    margin-left: 1px;
+}
+
+.logo-end {
+    margin-bottom: 20px;
+}
+
+.footer-title p {
+    color: #999;
+}
+
+.footer-title i {
+    font-size: 20px;
+    border-radius: 25px;
+    padding: 10px 10px;
+    background: #333333;
+    color: white;
+    margin-right: 8px;
+}
+
+.icons-i i:hover {
+    background: #d21e2b;
+}
+
+.footer-title a {
+    color: #999;
+    text-decoration: none;
+}
+
+.footer-title a:hover {
+    color: white;
+}
+
+.link-footer a {
+    line-height: 40px;
+}
+
+.t {
+    display: flex;
+}
+
+.t p {
+    font-size: 14px;
+    color: #cccccc;
+    line-height: 2px;
+}
+
+.t a {
+    color: white;
+}
+
+.t img {
+    padding-bottom: 40px;
+}
+
+.icon-small {
+    color: white !important;
+    font-size: 14px;
+    background: #222;
+    border-radius: 6px;
+    padding: 10px 20px;
+    line-height: 46px;
+}
+
+.icon-small:hover {
+    background: #d21e2b;
+}
+
+.notes-footer {
+    color: white;
+    border-top: 1px solid #292929;
+    padding: 25px 0;
+}
+
+.notes-footer span {
+    color: #d21716;
+}
+
+@media only screen and (max-width: 600px) {
+    .carousel-inner img {
+        height: 540px;
+        width: 100%;
+    }
+    .carousel-caption h1 {
+        font-size: 40px;
+    }
+    .carousel-caption a {
+        font-size: 10px;
+        padding: 10px 30px;
+    }
+    .title {
+        padding: 80px 0;
+    }
+    .title>h3 {
+        font-size: 30px;
+    }
+    .pagefive-table h3 {
+        font-size: 40px;
+    }
+    .pagefive-table hr {
+        width: 23%;
+    }
+    .lorem {
+        font-size: 18px;
+    }
+    .round-bonus h6 {
+        font-size: 19px;
+    }
+    .sp sup {
+        font-size: 35px;
+    }
+    .sp span {
+        font-size: 60px;
+    }
+    .round-bonus .sp {
+        padding-top: 36px;
+        font-size: 22px;
+    }
+    .pagefive-table hr {
+        width: 100%;
+    }
+    .round-bonus .different {
+        width: 100%;
+        margin: 0;
+        box-shadow: none;
+    }
+    .pagesix-logo img {
+        padding: 0;
+        margin: 5px 15px;
+        width: 225px;
+    }
+    .footer-title hr {
+        margin-left: 20px;
+    }
+    .footer-title h3 {
+        font-size: 35px;
+        margin-left: 20px;
+    }
+    .footer-title img {
+        margin-left: 20px;
+    }
+    .footer-title p {
+        font-size: 18px;
+        margin-left: 20px;
+    }
+    .footer-title a {
+        font-size: 20px;
+        margin-left: 20px;
+    }
+    .t img {
+        width: 78%;
+        padding: 10px 0;
+    }
+    .t2 {
+        padding: 16px 0;
+    }
+    .notes-footer {
+        font-size: 22px;
+        padding: 25px 0;
+    }
+}
